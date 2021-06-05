@@ -1,0 +1,15 @@
+1.- Seleccionar conjunto de datos
+2.- Describir el conjunto de datos
+3.- Explicar la tarea a realizar (clasificación o regresión) y que variables usaremos para esto
+4.- Analisis descriptivo usando Spark del conjunto
+5.- Calcular estadísticas agregadas de las variables categóricas con API de datos estructurados de Spark
+6.- Limpiar conjunto de datos con API de datos estructurados de Spark
+7.- Proyectar y quedarme solo con 5 columnas más la variable a predecir
+8.- Explicar los 3 modelos que se usarán para hacer las predicciones
+9.- Evaluación cruzada de los 3 modelos, con optimización de los hiperparametros en cada modelo
+10.- Hacer una tubería de transformaciones ricas (usando entre otras cosas OneHorEncoding) de 
+	las variables predictoras categóricas, ademas de hacer al menos más de dos 
+	transformaciones de las que aparecen en los docs de Spark
+11.- Seleccionar y explicar que métrica se usará para evaluar la calidad de los modelos
+12.- Determinar cual es el mejor modelo en base a los resultados obtenidos
+13.- Presentación del proyecto (mirar documento en la tarea "Proyecto_MLlib.pdf")
