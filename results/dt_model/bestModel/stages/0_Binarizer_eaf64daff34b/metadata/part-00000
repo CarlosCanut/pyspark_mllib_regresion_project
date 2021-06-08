@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.Binarizer","timestamp":1623180930337,"sparkVersion":"3.0.1","uid":"Binarizer_eaf64daff34b","paramMap":{"threshold":50.0,"inputCols":["w_rank","l_rank"],"outputCols":["w_rank_bin","l_rank_bin"]},"defaultParamMap":{"threshold":0.0,"outputCol":"Binarizer_eaf64daff34b__output"}}

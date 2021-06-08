@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.Binarizer","timestamp":1623182682249,"sparkVersion":"3.0.1","uid":"Binarizer_fa5af86ec0e8","paramMap":{"inputCol":"minutes","outputCol":"minutes_bin","threshold":108.0},"defaultParamMap":{"outputCol":"Binarizer_fa5af86ec0e8__output","threshold":0.0}}
